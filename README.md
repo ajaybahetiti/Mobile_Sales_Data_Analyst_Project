@@ -1,2 +1,2 @@
-# Mobile_Sales_PowerBi_Dashboard
-This is a Power bi end to end project
+# Mobile_Sales_Data_Analyst_Project
+Different projects on python, SQL, and Power BI where data is analyzed to get meaningful insights.
